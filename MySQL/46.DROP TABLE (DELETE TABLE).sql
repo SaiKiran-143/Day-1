@@ -1,0 +1,2 @@
+-- DROP TABLE detalis;
+-- If i done above command it delete the table name detalis which is present in practise DB

@@ -1,0 +1,50 @@
+Application is running with Unicode string encoding.
+License request failed for feature
+
+Requesting CREOPMA_SchoolSTD3 ...
+C:\ProgramData\PTC\Licensing\BE500806EDSTUDENTEDK12_license.dat: (-10) Feature has expired.
+
+Displaying status for license file: C:\ProgramData\PTC\Licensing\BE500806EDSTUDENTEDK12_license.dat
+                       License    In Use   Free   Version    Expire Date Days Remaining     SCN 
+                       -------    ------   ----   -------    ----------- --------------    -----
+                     PVMCADPRO       Uncounted      11.0     30-jul-2020    Expiried           Internal Use Only Locked to: 80-2B-F9-DE-D8-CD
+                         PVPRO       Uncounted      11.0     30-jul-2020    Expiried           Internal Use Only Locked to: 80-2B-F9-DE-D8-CD
+              CREODMA_Schools3       Uncounted      36.0     30-jul-2020    Expiried           Schools3 Locked to: 80-2B-F9-DE-D8-CD
+              CREOLAY_Schools3       Uncounted      36.0     30-jul-2020    Expiried           Schools3 Locked to: 80-2B-F9-DE-D8-CD
+            CREOPMA_SchoolSTD3       Uncounted      36.0     30-jul-2020    Expiried           SchoolSTD3 Locked to: 80-2B-F9-DE-D8-CD
+
+
+init_simulate_app:  mode = MECH_INIT_ONSTARTUP (INFO MESSAGE)
+pglSetStatus::   Pgl Session Initialize (INFO MESSAGE)
+Valid file wpplibs.cmp with extension cmp was not found in any of CURRENT_DIR,PROJ_LANG_TEXT_DIR,PROJ_TEXT_DIR,CUSTOM_LOCALE_FONT_DIR,PRO_LANG_TEXT_DIR,PRO_TEXT_DIR,MACHINE_LANG_TEXT_DIR,MACHINE_TEXT_DIR,PRO_FONT_DIR
+Valid file wpplibs.cmp with extension cmp was not found in any of CURRENT_DIR,PROJ_LANG_TEXT_DIR,PROJ_TEXT_DIR,CUSTOM_LOCALE_FONT_DIR,PRO_LANG_TEXT_DIR,PRO_TEXT_DIR,MACHINE_LANG_TEXT_DIR,MACHINE_TEXT_DIR,PRO_FONT_DIR
+uit_get_visual_style_low:  Style is PTC Creo 4 (INFO MESSAGE)
+init_simulate_app:  mode = MECH_INIT_ONSTARTUP (INFO MESSAGE)
+GalleryBaseWdg::GalleryBaseWdg:  Activate command of 'ProCmdDwgTblFromGallery' should be type uiCmdTypeNone (INFO MESSAGE)
+GalleryBaseWdg::GalleryBaseWdg:  Activate command of 'ProCmdCEFormatsGallery' should be type uiCmdTypeNone (INFO MESSAGE)
+GalleryBaseWdg::GalleryBaseWdg:  Activate command of 'ProCmdCEFltFormatsGallery' should be type uiCmdTypeNone (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'construction_mode_large' is not valid ('32x32') in short resource 'procmdeditgeomconstruct.res' (INFO MESSAGE)
+ProCmdSelBufferAttrSet():  Can't to find the command: ProCmdFaceted (INFO MESSAGE)
+ProCmdSelBufferAttrSet():  Selection Buffer Attribute loaded 55 commands (INFO MESSAGE)
+GalleryBaseWdg::GalleryBaseWdg:  Activate command of 'ProCmdMankSelGalPostr' should be type uiCmdTypeNone (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'man_postures_apply.bif' is not valid ('32x32') in short resource 'procmdmankapplgalpostr.res' (INFO MESSAGE)
+UitGroupItem::initVertCells:  The maximum group height has been increased to 100 (INFO MESSAGE)
+addHints:  adding UGC_NEUTRAL (INFO MESSAGE)
+zTocMgr::internal_maybe_open:  hint is UGC_NEUTRAL (INFO MESSAGE)
+ugc_check_version_dbtype:  file 67 != expected 7 (INFO MESSAGE)
+addHints:  adding UGC_NEUTRAL (INFO MESSAGE)
+zTocMgr::internal_maybe_open:  hint is UGC_NEUTRAL (INFO MESSAGE)
+ugc_check_version_dbtype:  file 67 != expected 7 (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'session_warning_events32x16' is not valid ('32x16') in short resource 'procmdinfonmgrlightdlg.res' (INFO MESSAGE)
+pglSetStatus::   PglWindowEndNoGraphics: Not in nographics mode. (INFO MESSAGE)
+
+ run mode = 2
+cadds5_link_app_path_name():  NuTCRACKER is not installed (INFO MESSAGE)
+check_exec_file_accessible_():  C:\Program Files\PTC\Creo 5.0.4.0\Common Files\\x86e_win64\obj\SWToPro.exe accessible (INFO MESSAGE)
+check_exec_file_accessible_():  C:\Program Files\PTC\Creo 5.0.4.0\Common Files\\x86e_win64\obj\SeodxToPro.exe accessible (INFO MESSAGE)
+PFSDBArrToFilter:  shouldn't do both (INFO MESSAGE)
+PFSTMakeTypeString:  no zip found (INFO MESSAGE)
+AdbPage::buildSizeStateTable:  Can't build Size State Table for page 'page_Home' (INFO MESSAGE)
+ResizeControlWdg::resizeContainerHorz:  Can't resize the control bar properly (INFO MESSAGE)
+Can't run without proper initialization. 
+pro_notification_remove:  failed to find func to remove (INFO MESSAGE)

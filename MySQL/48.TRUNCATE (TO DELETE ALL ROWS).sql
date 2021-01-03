@@ -1,0 +1,2 @@
+-- to delete all the rows from table and free space is there in table
+-- TRUNCATE TABLE detalis;

@@ -1,0 +1,5 @@
+-- GET THE ORDERS THAT ARE NOT SHIPPED
+
+SELECT *
+FROM orders
+WHERE shipped_date OR shipper_id IS NULL
